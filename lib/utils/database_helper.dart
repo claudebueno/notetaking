@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 
+import 'package:flutter/cupertino.dart';
 import 'package:notetaking/models/note.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart';
@@ -86,14 +87,14 @@ class DatabaseHelper {
     return result;
   }
 
-  // Get the 'Map List' [ List<Map> ] and convert it to 'Note List' [ List<Note> ]
+  // Obtenir 'Map List' [ List<Map> ] et la convertir en 'Note List' [ List<Note> ]
   Future<List<Note>> getNoteList() async {
     var noteMapList = await getNoteMapList(); // Get 'Map List' from database
     int count =
         noteMapList.length; // Count the number of map entries in db table
 
     List<Note> noteList = List<Note>();
-    // For loop to create a 'Note List' from a 'Map List'
+    // Boucle pour créer 'Note List' depuis une 'Map List'
     for (int i = 0; i < count; i++) {
       noteList.add(Note.fromMapObject(noteMapList[i]));
     }

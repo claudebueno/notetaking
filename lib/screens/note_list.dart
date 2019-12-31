@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:notetaking/models/note.dart';
-import 'package:notetaking/utils/database_helper.dart';
 import 'package:notetaking/screens/note_detail.dart';
+import 'package:notetaking/utils/database_helper.dart';
 import 'package:sqflite/sqflite.dart';
 
 class NoteList extends StatefulWidget {
@@ -55,7 +55,7 @@ class NoteListState extends State<NoteList> {
           alignment: Alignment.bottomRight,
           child: FloatingActionButton.extended(
             onPressed: () {
-              debugPrint('FAB clicked');
+              debugPrint('FAB cliqué pour ajout de note');
               navigateToDetail(Note('', '', 2), 'Ajouter une Note');
             },
             label: Text(
@@ -76,7 +76,6 @@ class NoteListState extends State<NoteList> {
 
   ListView getNoteListView() {
     TextStyle titleStyle = Theme.of(context).textTheme.subhead;
-
     return ListView.builder(
       itemCount: count,
       itemBuilder: (BuildContext context, int position) {
@@ -169,7 +168,8 @@ class NoteListState extends State<NoteList> {
   void _delete(BuildContext context, Note note) async {
     int result = await databaseHelper.deleteNote(note.id);
     if (result != 0) {
-      _showSnackBar(context, 'Note supprimée avec succès');
+      _showSnackBar(context, 'La Note a été supprimée avec succès');
+      debugPrint(note.description);
       updateListView();
     }
   }
@@ -198,6 +198,7 @@ class NoteListState extends State<NoteList> {
         setState(() {
           this.noteList = noteList;
           this.count = noteList.length;
+          debugPrint(noteList.length.toString());
         });
       });
     });

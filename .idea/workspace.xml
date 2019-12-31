@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5268e7d6-a209-49a8-9734-224076ec625d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/note_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/note_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/database_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/database_helper.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_28" />
   <component name="FileTemplateManagerImpl">
@@ -78,7 +95,7 @@
       <workItem from="1577529191582" duration="5363000" />
       <workItem from="1577615626136" duration="3432000" />
       <workItem from="1577715114881" duration="17095000" />
-      <workItem from="1577784762300" duration="1133000" />
+      <workItem from="1577784762300" duration="6316000" />
     </task>
     <servers />
   </component>
@@ -86,34 +103,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577789071493">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577789071493" />
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1577526766114">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577526766114" />
-    <state width="1398" height="193" key="GridCell.Tab.0.bottom" timestamp="1577785033962">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state x="583" y="213" key="AndroidProcessChooserDialog" timestamp="1577789241997">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="583" y="213" key="AndroidProcessChooserDialog/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577789241997" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1577789087200">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577789087200" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom" timestamp="1577792027995">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577785033962" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
-    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090971" />
-    <state width="1398" height="193" key="GridCell.Tab.0.center" timestamp="1577785033960">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577792027995" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center" timestamp="1577792027994">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577785033960" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
-    <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090971" />
-    <state width="1398" height="193" key="GridCell.Tab.0.left" timestamp="1577785033959">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577792027994" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left" timestamp="1577792027994">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577785033959" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
-    <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090970" />
-    <state width="1398" height="193" key="GridCell.Tab.0.right" timestamp="1577785033961">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577792027994" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right" timestamp="1577792027995">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577785033961" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
-    <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090971" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577792027995" />
     <state x="221" y="79" key="SettingsEditor" timestamp="1577529654941">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
