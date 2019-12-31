@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5268e7d6-a209-49a8-9734-224076ec625d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_28" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZ2quj12QN8TL5VyGWjjEghXQY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5268e7d6-a209-49a8-9734-224076ec625d" name="Default Changelist" comment="" />
+      <created>1577446490923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577446490923</updated>
+      <workItem from="1577446517250" duration="2103000" />
+      <workItem from="1577462261503" duration="7590000" />
+      <workItem from="1577520875512" duration="4905000" />
+      <workItem from="1577529191582" duration="5363000" />
+      <workItem from="1577615626136" duration="3432000" />
+      <workItem from="1577715114881" duration="17095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1577526766114">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577526766114" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom" timestamp="1577735690620">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577735690620" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090971" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center" timestamp="1577735690620">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577735690620" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090971" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left" timestamp="1577735690620">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577735690620" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090970" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right" timestamp="1577735690620">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577735690620" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090971" />
+    <state x="221" y="79" key="SettingsEditor" timestamp="1577529654941">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="79" key="SettingsEditor/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577529654941" />
+    <state x="100" y="123" width="1240" height="635" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1577521380831">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="100" y="123" width="1240" height="635" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577521380831" />
+    <state x="389" y="76" width="661" height="729" key="find.popup" timestamp="1577734799541">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="389" y="76" width="661" height="729" key="find.popup/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577734799541" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1577616252467">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577616252467" />
+    <state x="385" y="182" width="670" height="676" key="search.everywhere.popup" timestamp="1577722843118">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="385" y="182" width="670" height="676" key="search.everywhere.popup/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577722843118" />
+  </component>
+</project>
