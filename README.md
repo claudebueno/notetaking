@@ -8,9 +8,11 @@ A note-taking app
 
 ## Screenshots
 
-![Liste de Notes](https://gitlab.com/claudebueno/notetaking/blob/master/assets/images/notetaking1.png)
+![Liste de Notes](https://gitlab.com/claudebueno/notetaking/raw/master/assets/images/notetaking1.png)
 
-![Détail d'une Note](https://gitlab.com/claudebueno/notetaking/blob/master/assets/images/notetaking2.png)
+![Détail d'une Note](https://gitlab.com/claudebueno/notetaking/raw/master/assets/images/notetaking2.png)
+
+
 
 
 
