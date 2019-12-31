@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5268e7d6-a209-49a8-9734-224076ec625d" name="Default Changelist" comment="" />
+    <list default="true" id="5268e7d6-a209-49a8-9734-224076ec625d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VZ2quj12QN8TL5VyGWjjEghXQY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +42,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -72,6 +82,7 @@
       <workItem from="1577529191582" duration="5363000" />
       <workItem from="1577615626136" duration="3432000" />
       <workItem from="1577715114881" duration="17095000" />
+      <workItem from="1577784762300" duration="272000" />
     </task>
     <servers />
   </component>
@@ -83,28 +94,28 @@
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577526766114" />
-    <state width="1398" height="193" key="GridCell.Tab.0.bottom" timestamp="1577735690620">
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom" timestamp="1577785033962">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577735690620" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577785033962" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
     <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090971" />
-    <state width="1398" height="193" key="GridCell.Tab.0.center" timestamp="1577735690620">
+    <state width="1398" height="193" key="GridCell.Tab.0.center" timestamp="1577785033960">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577735690620" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577785033960" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
     <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090971" />
-    <state width="1398" height="193" key="GridCell.Tab.0.left" timestamp="1577735690620">
+    <state width="1398" height="193" key="GridCell.Tab.0.left" timestamp="1577785033959">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577735690620" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577785033959" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
     <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090970" />
-    <state width="1398" height="193" key="GridCell.Tab.0.right" timestamp="1577735690620">
+    <state width="1398" height="193" key="GridCell.Tab.0.right" timestamp="1577785033961">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577735690620" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.835/-1920.-10.1920.1057@0.23.1440.835" timestamp="1577785033961" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.835/-1920.23.1920.1057@0.23.1440.835" timestamp="1577454603915" />
     <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-10.1920.1015@0.23.1440.877" timestamp="1577623090971" />
     <state x="221" y="79" key="SettingsEditor" timestamp="1577529654941">

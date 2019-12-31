@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/claude/development/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/claude/AndroidStudioProjects/exemplesflutter/notetaking"
-export "FLUTTER_TARGET=/Users/claude/AndroidStudioProjects/exemplesflutter/notetaking/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/claude/AndroidStudioProjects/apertoapp-gitlab/notetaking"
+export "FLUTTER_TARGET=/Users/claude/AndroidStudioProjects/apertoapp-gitlab/notetaking/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "FLUTTER_FRAMEWORK_DIR=/Users/claude/development/flutter/bin/cache/artifacts/engine/ios"
