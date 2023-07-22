@@ -1,4 +1,4 @@
-# TaskBuddy
+# Note Taking
 
 A smart note-taking app
 
