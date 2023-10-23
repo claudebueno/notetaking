@@ -97,7 +97,7 @@ class NoteDetailState extends State<NoteDetail> {
                       setState(() {
                         debugPrint(
                             'Utilisateur a selectionné $valueSelectedByUser');
-                        updatePriorityAsInt(valueSelectedByUser);
+                        updatePriorityAsInt(valueSelectedByUser!);
                       });
                     }),
               ),
@@ -141,11 +141,12 @@ class NoteDetailState extends State<NoteDetail> {
                 child: Row(
                   children: <Widget>[
                     Expanded(
-                      child: RaisedButton(
-                        shape: RoundedRectangleBorder(
+                      child: ElevatedButton(
+
+                        /*shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(20)),
                         color: const Color(0xFFFFFFFF),
-                        textColor: const Color(0xFFd05855),
+                        textColor: const Color(0xFFd05855),*/
                         child: Text(
                           'Enregistrer',
                           textScaleFactor: 1.3,
@@ -166,10 +167,10 @@ class NoteDetailState extends State<NoteDetail> {
                       width: 20.0,
                     ),
                     Expanded(
-                      child: RaisedButton(
-                        shape: RoundedRectangleBorder(
+                      child: ElevatedButton(
+                     /*   shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(20)),
-                        color: const Color(0xFFFFFFFF),
+                        color: const Color(0xFFFFFFFF),*/
                         child: Text(
                           'Annuler',
                           textScaleFactor: 1.3,
